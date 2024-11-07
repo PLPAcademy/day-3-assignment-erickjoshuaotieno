@@ -10,7 +10,7 @@
 
 A) Install Homebrew
 
-<mark>B) Download the Dart SDK<\mark>
+<mark>B) Download the Dart SDK
 
 C) Update your PATH
 
